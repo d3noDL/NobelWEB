@@ -1,0 +1,15 @@
+{
+    "name": "The Nobelverse Invent",
+    "short_name": "The Nobelverse Invent",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#231F20",
+    "theme_color": "#000",
+    "description": "The Nobelverse: Invent",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
